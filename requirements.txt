@@ -1,0 +1,5 @@
+numpy
+steamlit
+joblib
+Scikit-learn
+pandas
